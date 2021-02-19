@@ -51,3 +51,5 @@ git rm --cached
 Para mais informações: <br>
 https://github.com/da2k/curso-git-e-github-ninja/issues/32 <br>
 https://git-scm.com/docs/git-rm
+
+### Historico do git
