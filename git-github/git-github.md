@@ -78,4 +78,4 @@ git log --pretty=format:"%h - %an, %ar : %s"
 * %an: Nome do autor;
 * %ar: Data;
 * %s: Comentário.<br>
-Exemplo pego em: [git.md]https://gist.github.com/leocomelli/2545add34e4fec21ec16
+Exemplo pego em: [git.md](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
