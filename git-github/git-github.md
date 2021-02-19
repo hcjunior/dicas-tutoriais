@@ -39,3 +39,4 @@ git add -f arquivo/diretorio
 ### Comitar modificações
     git commit -m "mensagem"
 
+### Remover arquivo/diretorio
