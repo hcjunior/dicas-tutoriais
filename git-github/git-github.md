@@ -20,6 +20,18 @@
     git status
 
 ### Adicionar arquivos/diretorios (modificações feitas)
-**Adicionar todas as mudanças**
-    git add .
 
+**Adicionar todas as mudanças**
+```
+git add .
+```
+
+**Adicionar arquivo/diretorio**
+```
+git add arquivo/diretorio
+```
+
+**Adicionar um arquivo que está listado no .gitignore**
+```
+git add -f arquivo/diretorio
+```
