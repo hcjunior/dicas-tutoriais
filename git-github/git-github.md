@@ -40,3 +40,14 @@ git add -f arquivo/diretorio
     git commit -m "mensagem"
 
 ### Remover arquivo/diretorio
+**Remover arquivo/diretorio**
+```
+git rm arquivo/diretorio
+```
+**Remover arquivo/diretorio sem apaga-lo fisicamente**
+```
+git rm --cached
+```
+Para mais informações: <br>
+https://github.com/da2k/curso-git-e-github-ninja/issues/32 <br>
+https://git-scm.com/docs/git-rm
