@@ -53,3 +53,29 @@ https://github.com/da2k/curso-git-e-github-ninja/issues/32 <br>
 https://git-scm.com/docs/git-rm
 
 ### Historico do git
+**Mostrar historico**
+```
+git log
+```
+**Mostrar historico resumido em 1 linha**
+```
+git log --oneline
+```
+**Mostrar historico com diff (mostra as alterações que foram feitas neles)**
+```
+git log -p (pode colocar -1 / -2 / -3 para exibir uma quantidade especificas de commits)
+```
+**Mostra resumo geral do historico**
+```
+git log stat
+```
+**Exibir histórico com formatação específica (hash abreviada, autor, data e comentário)**
+```
+git log --pretty=format:"%h - %an, %ar : %s"
+```
+	
+* %h: Abreviação do hash;
+* %an: Nome do autor;
+* %ar: Data;
+* %s: Comentário.<br>
+Exemplo pego em: [git.md]https://gist.github.com/leocomelli/2545add34e4fec21ec16
