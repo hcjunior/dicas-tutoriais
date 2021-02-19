@@ -35,3 +35,7 @@ git add arquivo/diretorio
 ```
 git add -f arquivo/diretorio
 ```
+
+### Comitar modificações
+    git commit -m "mensagem"
+
